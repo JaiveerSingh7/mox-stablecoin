@@ -1,7 +1,7 @@
 # pragma version 0.4.0
 """
 @license MIT
-@author You
+@author Jaiveer Singh
 @title DSC Engine
 @notice
     Collateral: Exogenous (WETH, WBTC, etc...)
