@@ -1,7 +1,7 @@
 # pragma version 0.4.0
 """
 @license MIT
-@author You!
+@author Jaiveer Singh
 @title Decentralized Stable Coin
 @dev Follows the ERC20 token standard
 """ 
